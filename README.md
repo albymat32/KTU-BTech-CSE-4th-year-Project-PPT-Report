@@ -12,7 +12,7 @@ Latex PPT files and Project Report  files Done by  a group of Computer Science s
 
 <h2>For PPT and Report</h2>
 <ol>
-  <li> Download the folders , compress them  seperately into zip .</li>
+  <li> Download the zip files,seperately .</li>
   <li> Open <a href='https://www.overleaf.com/project'>OverLeaf Website</a>,Create Account</li>
   <li> drag and drop  any one of the zip file, The file directory will open  </li>
   <li> Click the file with extension '.tex' and click compile on right top of the page</li>

@@ -21,7 +21,7 @@ Latex PPT files and Project Report  files Done by  a group of Computer Science s
 
 <h2>Diagrams -UML</h2>
 
-<p> Best site is <a href='https://app.diagrams.net/'>Draw.io</a> shapes can be dragged and dropped, arrows can be connected by hover over the edges of these shapes , Text can be added by double clicking on the canvas </p>
+<p> Best site is <a href='https://app.diagrams.net/'>Draw.io</a> shapes can be dragged and dropped, arrows can be connected by hovering over the edges of these shapes , Text can be added by double clicking on the canvas, size , length changes automatically if moved </p>
 For Exporting the image (Use Export as PDF for greatest quality)
 <ol>
   <li> While exporting tick the 'Crop' ,'Include Copy as Diagram', and 'Transparent Background' </li>
